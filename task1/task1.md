@@ -1,8 +1,8 @@
-##Task 1
+## Task 1
 
 Below are the steps that'll use to automate integration and deployment of your current project.
 
-###Steps:-
+### Steps:-
 * I'll set up centralized remote repository on github or bitbucket.
 
 * Add continuous integration tools such as CircleCi or TravisCi.
